@@ -69,7 +69,7 @@ export const projects = [
       "Clone do Twitter desenvolvido com React e Next.js, permitindo criar e visualizar posts em um feed dinâmico com interface moderna.",
     techs: ["Next.js", "ReactJs"],
     type: "Estudo",
-    netlify: "hhttps://ft-clonetwitter.netlify.app/home",
+    netlify: "https://ft-clonetwitter.netlify.app/home",
     github: "https://github.com/stephanielraab/Yt-Clone-Twitter-Front.git",
   },
   {
