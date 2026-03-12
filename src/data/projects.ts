@@ -50,7 +50,7 @@ export const projects = [
     description:
       "Aplicação de cardápio digital com foco em UI clara, organização visual e experiência mobile.",
     techs: ["Next.js", "Tailwind"],
-    type: "Projeto pessoal",
+    type: "Estudo",
     netlify: "https://b7burguerjoint.netlify.app/",
     github: "https://github.com/stephanielraab/B7Burguer",
   },
@@ -59,8 +59,27 @@ export const projects = [
     description:
       "Landing page corporativa com foco em hierarquia visual, conversão e layout profissional.",
     techs: ["Next.js", "Tailwind"],
-    type: "Projeto pessoal",
+    type: "Estudo",
     netlify: "https://project-awax-business.netlify.app/",
     github: "https://github.com/stephanielraab/Awax",
   },
+  {
+    title: "Clone Twitter",
+    description:
+      "Clone do Twitter desenvolvido com React e Next.js, permitindo criar e visualizar posts em um feed dinâmico com interface moderna.",
+    techs: ["Next.js", "ReactJs"],
+    type: "Estudo",
+    netlify: "hhttps://ft-clonetwitter.netlify.app/home",
+    github: "https://github.com/stephanielraab/Yt-Clone-Twitter-Front.git",
+  },
+  {
+    title: "Blog Network",
+    description:
+       "Aplicação de blog em React com integração a API para criação e visualização de posts em tempo real.",
+    techs: ["React.js", "API"],
+    type: "Projeto pessoal",
+    netlify: "https://test-codeleap-blog.netlify.app/",
+    github: "https://github.com/stephanielraab/Test-codeleap-blog.git",
+  },
+
 ];
