@@ -10,7 +10,6 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: "Stephanie Lisboa Raab - Front-end Developer",
-  description: "Portfólio Front-end",
 };
 
 export default function RootLayout({
@@ -20,7 +19,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="pt-BR" className="h-full">
-      <body className={`${poppins.variable} min-h-screen text-slate-100 font-sans`}>
+      <body>
         {children}
       </body>
     </html>
