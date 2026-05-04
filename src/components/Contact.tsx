@@ -98,7 +98,7 @@ export function Contact() {
 
           {/* CV DISCRETO */}
           <a
-            href="/cv/stephanie-lisboa-raab.pdf"
+            href="/cv/Curriculo_Stephanie_Lisboa_Raab.pdf"
             download
             target="_blank"
             rel="noopener noreferrer"
