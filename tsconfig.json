@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",git add .
+    "baseUrl": ".",
     "target": "ES2017",
     "lib": [
       "dom",
