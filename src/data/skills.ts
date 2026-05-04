@@ -5,7 +5,8 @@ import {
   Layout,
   Wind,
   GitBranch,
-  BookOpen
+  BookOpen,
+  Smartphone,
 } from "lucide-react";
 
 
@@ -51,6 +52,13 @@ export const skills = [
     category: "Tools",
     description: "Versionamento e fluxo Git",
     color: "from-red-500 via-orange-400 to-yellow-400",
+  },
+  {
+  name: "React Native",
+  icon: Smartphone, 
+  category: "Mobile",
+  description: "Desenvolvimento de apps mobile com React Native",
+  color: "from-blue-500 via-cyan-400 to-green-400",
   },
 
   {
