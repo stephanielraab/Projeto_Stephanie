@@ -1,7 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
-    "ignoreDeprecations": "6.0",
+    "baseUrl": ".",git add .
     "target": "ES2017",
     "lib": [
       "dom",
