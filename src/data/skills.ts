@@ -7,6 +7,9 @@ import {
   GitBranch,
   BookOpen,
   Smartphone,
+  Server,
+  Coffee,
+  FileCode2,
 } from "lucide-react";
 
 
@@ -59,6 +62,30 @@ export const skills = [
   category: "Mobile",
   description: "Desenvolvimento de apps mobile com React Native",
   color: "from-blue-500 via-cyan-400 to-green-400",
+  },
+
+  {
+    name: "Node.js",
+    icon: Server,
+    category: "Backend",
+    description: "APIs REST, runtime e ecossistema npm",
+    color: "from-green-500 via-green-400 to-emerald-500",
+  },
+
+  {
+    name: "Java",
+    icon: Coffee,
+    category: "Backend",
+    description: "POO, lógica de programação e back-end",
+    color: "from-orange-500 via-red-500 to-red-600",
+  },
+
+  {
+    name: "Python",
+    icon: FileCode2,
+    category: "Backend",
+    description: "Scripts, automação e back-end",
+    color: "from-blue-500 via-yellow-400 to-yellow-300",
   },
 
   {
