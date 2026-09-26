@@ -77,7 +77,7 @@ export const projects = [
     description: "Aplicação de e-commerce em Next.js com integração a API para criação e visualização de produtos em tempo real.",
     techs: ["Next.js", "TypeScript", "API"],
     type: "Projeto pessoal",
-    Vercel: "https://minima-store-virid.vercel.app/",
+    netlify: "https://minima-store-virid.vercel.app/",
     github: "https://github.com/stephanielraab/Minima_Store.git",
   },
 ];
