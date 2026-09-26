@@ -2,7 +2,7 @@
 
 import { Github, ExternalLink, Star } from "lucide-react";
 import { motion } from "framer-motion";
-import { projects } from "@/data/projects";
+import { projects } from "@/data/projects.1";
 
 export function Projects() {
   return (
