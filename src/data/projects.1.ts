@@ -73,7 +73,7 @@ export const projects = [
     github: "https://github.com/stephanielraab/Test-codeleap-blog.git",
   },
   {
-    title: "Mínina Store",
+    title: "Mínima Store",
     description: "Aplicação de e-commerce em Next.js com integração a API para criação e visualização de produtos em tempo real.",
     techs: ["Next.js", "TypeScript", "API"],
     type: "Projeto pessoal",
